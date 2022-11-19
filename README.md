@@ -1,2 +1,2 @@
 # Hackerrank-C-
-Some of the HackerRank questions which I completed
+Some of the C++ HackerRank questions which I completed
